@@ -1,7 +1,7 @@
 
 @extends('layouts.adminSidebar')
 
-@section('title', 'Student Dashboard')
+@section('title', 'Admin Dashboard')
 @section('content')
 
 
